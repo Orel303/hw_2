@@ -10,4 +10,4 @@ def nested_rectangle(n):
 
 
 if __name__=='__main__':
-    nested_rectangle(10)
+    nested_rectangle(150)
